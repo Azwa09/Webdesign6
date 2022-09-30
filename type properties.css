@@ -1,0 +1,13 @@
+h1 {
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p {
+    width: 30px;
+    height: 20px;
+}
+
+div {
+    text-align: center;
+}
